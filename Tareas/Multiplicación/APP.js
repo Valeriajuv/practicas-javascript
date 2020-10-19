@@ -1,7 +1,7 @@
 function multiplicacionnumeros() {
     
-    let num1 = 4;
-    let num2 = 20;
+    let num1 = 9;
+    let num2 = 50;
     let multiplicacion = 0;
 
     multiplicacion = num1 * num2
