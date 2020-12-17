@@ -4,7 +4,7 @@ function MetodosdeArreglos(){
     var Arreglo2 = [2,5,6,7,0];
     var Arreglo3 = [1,2,3,4,5,11,33,22,28,6,55,44,111];
     var Arreglo4 = ["Manzana", "Pera", "Mesa", "Pared", "Ropero", "Raton"];
-
+    var Arreglo5 = ["Hola", "Como", "Estas"];
 
 //Agrega el número al final del arreglo y además cuenta cuantos valores son el total despues de agregar el número
 
@@ -24,4 +24,20 @@ function MetodosdeArreglos(){
     console.log(Arreglo4);
 
     console.log(Arreglo4.sort());
+
+    console.log(ArreglosNumeros);
+
+    console.log(ArreglosNumeros.pop());
+
+    console.log(ArreglosNumeros.slice());
+
+    console.log(ArreglosNumeros.shift());
+
+    console.log(ArreglosNumeros.slice());
+
+    console.log(ArreglosNumeros.reverse());
+
+    console.log(Arreglo5.join());
+
+    console.log(Arreglo5.join(" "));
 }
